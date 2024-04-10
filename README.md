@@ -13,9 +13,7 @@ Para la primera versión, existen 4 artefactos:
 - Collar divino
 - Armadura de acero valyrio
 
-Al principio Rolando solo puede llevar hasta 2 artefactos a la vez, 
-pero se espera que a medida que se desarrolla el juego pueda incrementar 
-su capacidad.
+Al principio Rolando solo puede llevar hasta 2 artefactos a la vez, pero se espera que a medida que se desarrolla el juego pueda incrementar su capacidad.
 
 Cada vez que rolando se encuentra con un artefacto, y tiene capacidad para llevarlo, lo levanta. 
 
@@ -76,9 +74,7 @@ Si consultamos la historia de encuentro con los artefactos debería ser:
 ## Comportamiento de los artefactos
 Los artefactos son elementos que aportan poder en una batalla al personaje que lo posee Pero ojo que cada vez que se combate en una batalla sufren efectos.
 
-El poder de pelea de rolando, va a depender de un valor base (inicialmente configurable)
-
-y de sus artefactos.
+El poder de pelea de rolando, va a depender de un valor base (inicialmente configurable) y de sus artefactos.
 
 Tener en cuenta al momento de programar los artefactos que éstos podrían ser usados por otros personajes que aún se han introducido.
 
